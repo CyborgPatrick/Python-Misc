@@ -23,4 +23,4 @@ def xsort(words):
 
  return result
  
-print xsort(['epli','ananas','anus','xenon','xorfar','ups','yes','burgeer','raven','coke','xylofone','bord','stoll'])
+print xsort(['epli','ananas','anas','xenon','xorfar','ups','yes','burgeer','raven','coke','xylofone','bord','stoll'])

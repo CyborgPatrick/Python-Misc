@@ -16,4 +16,4 @@ def wordcount(filename):
  
  return (len(w), totcount)
 
-#print wordcount('wordctest.txt')
+print wordcount('wordctest.txt')
